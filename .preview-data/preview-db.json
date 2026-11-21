@@ -1,0 +1,28 @@
+{
+  "setupCode": "5D320738",
+  "users": [],
+  "companies": [
+    {
+      "id": "co_main",
+      "name": "Main Company",
+      "legacy": true,
+      "deleted": false,
+      "createdAt": "2026-11-21T11:30:00.578Z",
+      "createdBy": "system"
+    }
+  ],
+  "companyData": {
+    "co_main": {}
+  },
+  "sessions": {},
+  "auditLogs": [],
+  "backups": {},
+  "emailLogs": [],
+  "connectors": {
+    "gmail": false,
+    "drive": false,
+    "gmailAt": "",
+    "driveAt": "",
+    "by": ""
+  }
+}

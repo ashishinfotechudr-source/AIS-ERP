@@ -1,0 +1,6 @@
+{
+  "name": "Vendor Suite PHP & SQL Host Builder",
+  "description": "Self-hosted PHP, HTML, and aligned MySQL package generator and live preview for Vendor, Procurement & Payment Suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
